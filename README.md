@@ -23,12 +23,6 @@ git clone https://github.com/seu-usuario/harry-potter-landing-page.git
 yarn install # ou npm i
 yarn start   # ou npm run dev
 ```
-4. Abra http://localhost:8080 no navegador da sua preferência.
-
-5. Para produção, execute:
-```bash
-yarn build    # ou npm run prod
-```
-6. O arquivo compilado estará disponível na raiz deste diretório como `/dist`.
+4. Link -> https://teststefani.vercel.app/
 
 
