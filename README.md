@@ -6,7 +6,7 @@ Este é um projeto de uma Landing Page que exibe informações sobre personagens
 
 Certifique-se de ter o Node.js e o npm (ou yarn) instalados em seu sistema.
 
-- [Node.js](https://nodejs.org/) (versão X.X.X)
+- [Node.js](https://nodejs.org/) 
 - [npm](https://www.npmjs.com/) ou [Yarn](https://classic.yarnpkg.com/)
 
 ## Instalação
@@ -15,3 +15,20 @@ Certifique-se de ter o Node.js e o npm (ou yarn) instalados em seu sistema.
 
 ```bash
 git clone https://github.com/seu-usuario/harry-potter-landing-page.git
+```
+2. Navegue até a pasta `harry-potter-landing-page` no terminal;
+
+3. Execute os comandos abaixo:
+```bash
+yarn install # ou npm i
+yarn start   # ou npm run dev
+```
+4. Abra http://localhost:8080 no navegador da sua preferência.
+
+5. Para produção, execute:
+```bash
+yarn build    # ou npm run prod
+```
+6. O arquivo compilado estará disponível na raiz deste diretório como `/dist`.
+
+
